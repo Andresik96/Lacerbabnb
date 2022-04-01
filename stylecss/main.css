@@ -1,0 +1,78 @@
+/********* GENERAL ************/
+
+body{
+    font-family: sans-serif;
+    margin: 0;
+}
+
+a {
+    color: darkred;
+    text-decoration: underline;
+    margin: 40px 0px 40px 0px;
+}
+
+/************** HEADER **********/
+#header {
+background-color: black;
+text-align: center;
+}
+h1 {
+    font-size: 36px;
+    color: darkred;
+    background-color: black;
+    padding: 15px 40px 5px 10px;
+    border: 2px #cc3300 solid;
+    margin: 0 0 40px 0;
+    text-align: center;
+}
+h2 {
+    color: darkred;
+    background-color: black;
+    padding: 20px 40px 5px 10px;
+    border: 2px #cc0300 solid;
+    margin: 40px 0px 40px 0px;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#nav{
+    text-align: center;
+    background-color: black;
+    text-transform: uppercase;
+    font-style: oblique;
+}
+
+#nav li {
+    display: inline-block;
+    padding: 6px 8px 6px 8px;
+}
+
+#nav li a {
+    color: whitesmoke;
+}
+
+#nav li:hover {
+    background-color: darkred;
+}
+
+
+
+
+
+/************** CONTENT **********/
+
+#content {
+    width: 600px;
+    margin: 30px auto;
+}
+#content h4{
+    border-bottom: black solid 3px;
+}
+
+
+
+
+
+
+
